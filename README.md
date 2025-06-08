@@ -55,9 +55,11 @@ Here are some ideas to get you started:
 <!-- プロフィール詳細カード -->
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=y-ttkt&theme=dracula" alt="Profile Details" />
 
-
-
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/y-ttkt/y-ttkt/main/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/y-ttkt/y-ttkt/main/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/y-ttkt/y-ttkt/main/img/snake.svg">
+</picture>
 
 
 
