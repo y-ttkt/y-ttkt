@@ -26,4 +26,5 @@ jobs:
         with:
           branch: main
           message: ':rocket: Update'
+          default_author: github_actions
         # actions/checkout で使われた GITHUB_TOKEN の認証情報をそのまま利用するため、特別なトークン設定は不要
